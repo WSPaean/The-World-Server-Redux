@@ -1,0 +1,73 @@
+"a" = (/turf/simulated/wall/r_wall,/area/submap/factions/trustfund/greykeep)
+"b" = (/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"c" = (/obj/machinery/porta_turret,/obj/structure/window/reinforced{dir = 2},/turf/simulated/floor/reinforced,/area/submap/factions/trustfund/greykeep)
+"d" = (/obj/machinery/door/airlock/vault/bolted{dir = 2; icon_state = "closed"; locked = 0; name = "The Grey Keep"; req_access = list(232)},/obj/machinery/light/colored/red{dir = 1},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"e" = (/obj/structure/simple_door/wood,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"f" = (/obj/machinery/door/airlock/vault/bolted{dir = 8; icon_state = "closed"; locked = 0; name = "The Grey Keep"; req_access = list(232)},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"g" = (/obj/machinery/light/colored/red,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"h" = (/obj/structure/showcase{icon_state = "showcase_5"},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"i" = (/obj/machinery/light/colored/red{tag = "icon-red1 (WEST)"; icon_state = "red1"; dir = 8},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"j" = (/obj/structure/table/steel_reinforced,/obj/machinery/turretid/lethal{ailock = 1; control_area = /area/submap/factions/trustfund/greykeep; pixel_x = -32; req_access = list(232)},/obj/item/weapon/card/id/syndicate{access = list(232)},/obj/item/weapon/card/id/syndicate{access = list(232)},/obj/machinery/light/colored/red,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"k" = (/obj/structure/table/steel_reinforced,/obj/structure/sign/warning/lethal_turrets{pixel_x = 32},/obj/item/device/radio/phone/medbay{frequency = 1213},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"l" = (/obj/machinery/porta_turret,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/reinforced,/area/submap/factions/trustfund/greykeep)
+"m" = (/obj/machinery/turretid/lethal{ailock = 1; control_area = /area/submap/factions/trustfund/greykeep; pixel_x = -32; req_access = list(232)},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"n" = (/obj/machinery/door/airlock/vault/bolted{dir = 2; icon_state = "closed"; locked = 0; name = "The Grey Keep"; req_access = list(232)},/turf/simulated/wall/r_wall,/area/submap/factions/trustfund/greykeep)
+"o" = (/obj/machinery/door/airlock/vault/bolted{dir = 2; icon_state = "closed"; locked = 0; name = "The Grey Keep"; req_access = list(232)},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"p" = (/obj/machinery/light/colored/red,/mob/living/simple_animal/hostile/malf_drone/lesser,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"q" = (/obj/machinery/vending/engivend/circuits/secure,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"r" = (/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"s" = (/obj/structure/sink/kitchen{pixel_y = 15},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"t" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"u" = (/obj/machinery/power/apc{dir = 1; name = "north bump"; pixel_x = 0; pixel_y = 24},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"v" = (/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"w" = (/obj/machinery/vending/boozeomat{icon_state = "boozeomat"; dir = 8},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"x" = (/obj/structure/table/wooden_reinforced,/obj/item/weapon/storage/fancy/cigar,/obj/item/weapon/flame/lighter/zippo/royal,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"y" = (/obj/machinery/light/colored/red{dir = 1},/obj/machinery/papershredder,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"z" = (/obj/machinery/button/remote/blast_door{id = "gkw"; name = "window shutters"; pixel_y = 32},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"A" = (/obj/machinery/turretid/lethal{ailock = 1; control_area = /area/submap/factions/trustfund/greykeep; pixel_x = 0; pixel_y = 32; req_access = list(232)},/obj/structure/table/steel_reinforced,/obj/item/device/radio/phone/medbay{frequency = 1213},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"B" = (/obj/effect/wallframe_spawn/reinforced/electric,/obj/machinery/door/blast/regular{dir = 4; icon_state = "pdoor1"; id = "gkw"},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"C" = (/obj/structure/flora/pottedplant/minitree,/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"D" = (/obj/structure/table/wooden_reinforced,/obj/item/weapon/reagent_containers/glass/rag,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"E" = (/obj/structure/table/wooden_reinforced,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"F" = (/obj/structure/table/wooden_reinforced,/obj/item/weapon/storage/box/glasses/meta,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"G" = (/obj/machinery/door/airlock/vault/bolted{dir = 8; icon_state = "closed"; locked = 0; name = "The Grey Keep"; req_access = list(232)},/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"H" = (/obj/structure/bed/chair/office/dark{dir = 4},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"I" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"J" = (/obj/machinery/light{dir = 8; icon_state = "tube1"; pixel_y = 0},/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"K" = (/obj/item/weapon/stool/bar/padded,/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"L" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"M" = (/obj/item/weapon/gun/projectile/p92x/brown,/obj/item/weapon/gun/projectile/p92x/brown,/obj/item/clothing/accessory/holster/leg,/obj/item/clothing/accessory/holster/leg,/obj/structure/closet/secure_closet/guncabinet,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"N" = (/obj/structure/table/steel_reinforced,/obj/item/weapon/storage/box/metalfoam,/obj/item/weapon/storage/box/teargas,/obj/item/weapon/storage/box/flashbangs,/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+"O" = (/obj/machinery/media/jukebox,/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"P" = (/obj/structure/table/wooden_reinforced,/obj/machinery/recharger,/obj/item/device/defib_kit/loaded,/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"Q" = (/obj/structure/table/wooden_reinforced,/obj/structure/window/reinforced{dir = 1},/obj/item/weapon/storage/firstaid/clotting,/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"R" = (/obj/structure/inflatable,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"S" = (/obj/machinery/vending/wallmed1/gcch{dir = 4; icon_state = "wallmed"; pixel_x = -32},/mob/living/bot/medbot/mysterious{desc = "One of the many autonomous pawns serving the Grey Rook"; name = "\improper A Grey Pawn"},/turf/simulated/floor/wood/ebony,/area/submap/factions/trustfund/greykeep)
+"T" = (/obj/structure/curtain/medical{icon_state = "closed"; dir = 4},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"U" = (/obj/machinery/sleeper{dir = 4},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"V" = (/obj/machinery/light,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"W" = (/obj/structure/morgue{dir = 2; icon_state = "morgue1"},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"X" = (/obj/machinery/button/crematorium{pixel_y = -32},/obj/structure/table/rack,/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"Y" = (/obj/structure/morgue/crematorium{icon_state = "crema1"; dir = 2},/turf/simulated/floor/carpet/turcarpet,/area/submap/factions/trustfund/greykeep)
+"Z" = (/obj/structure/table/steel_reinforced,/obj/machinery/firealarm/alarms_hidden{name = "intruder alert"},/turf/simulated/floor/tiled/techfloor,/area/submap/factions/trustfund/greykeep)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaa
+aaaaacacacaddaddaa
+bebbfbbbbbfbbbbbaa
+bebbfbgbbbfbbhbiaa
+aajkalalalambbbbaa
+aaaaaaaaaaannaooaa
+aaaaaaaaaaapqabbaa
+aarrsturraaaaabbaa
+aavwrrrxvayzABbiaa
+aavCDEFCvGbHIBbbaa
+aaJvKKKvLaMNZBbbaa
+aaJOvvvvLaBBBannaa
+aaPQRrrvvGbbbbbbaa
+aaSrTrrrvGbgbbbbaa
+aaUURVWXYalalalaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaa
+"}

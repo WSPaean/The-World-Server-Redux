@@ -2685,6 +2685,7 @@
 #include "maps\submaps\surface_submaps\factions\factions_maps.dm"
 #include "maps\submaps\surface_submaps\factions\bluemooncartel\cartel_maps.dm"
 #include "maps\submaps\surface_submaps\factions\quercus\quercus_maps.dm"
+#include "maps\submaps\surface_submaps\factions\trustfund\grey_keep.dmm"
 #include "maps\submaps\surface_submaps\mountains\mountains.dm"
 #include "maps\submaps\surface_submaps\mountains\mountains_areas.dm"
 #include "maps\submaps\surface_submaps\plains\plains.dm"

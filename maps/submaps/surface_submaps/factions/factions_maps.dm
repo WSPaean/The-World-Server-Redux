@@ -54,3 +54,13 @@ var/list/global/workers_union_bases = list()
 /area/submap/factions/bluemooncartel/cartel_aqua
 	name = "Trendy Computer Lab"
 	music = "music/escape.ogg"
+
+//Trust Fund
+/area/submap/factions/trustfund/greykeep
+	name = "The Grey Keep"
+
+/area/submap/factions/trustfund/redchapel
+	name = "The Red Chapel"
+
+/area/submap/factions/trustfund/blackarmoury
+	name = "The Black Armoury"
